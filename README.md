@@ -1,8 +1,16 @@
 ### Hi there 👋
+## Check out my recent projects
+
+[WoCC](https://github.com/zahra-arjm/WoCC_public): proposed algorithms to aggregate predictions prepared for a competition.
+
+[Wikipedia discussion visualization](https://zahra-arjm.github.io/wikipedia_discussions/): visualization of Wikipedia authors' conversations on controversial topics to figure out factors that lead to argument settlement. Find out the repo [here](https://github.com/zahra-arjm/wikipedia_discussions).
+
+[train data](https://github.com/zahra-arjm/train_data): a data science challenge for beginners.
+
+
+
 
 <!--
-**zahra-arjm/zahra-arjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
